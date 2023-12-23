@@ -1,0 +1,10 @@
+git remote add origin https://github.com/hasanulislam01/labTask.git
+git config --global user.email "hasanul.islam01rb@gmail.com"
+git config --global user.name "hasanulislam01"
+
+git config user.email "hasanul.islam01rb@gmail.com"
+git config user.name "hasanulislam01"
+
+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
+
+git remote add origin https://github.com/hasanulislam01/labTaskdemo.git
